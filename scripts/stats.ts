@@ -53,7 +53,7 @@ export async function request(date: { from?: Date; to?: Date }) {
 		}
 		`,
     variables: {
-      username: 'terkelg',
+      username: 'bharat787',
       from: date.from?.toISOString(),
       to: date.to?.toISOString()
     }

@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme.terkel.com?section=top&theme=dark">
-  <img src="https://readme.terkel.com?section=top&theme=light" width="100%" height="20" align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme.bharat787.com?section=top&theme=dark">
+  <img src="https://readme.bharat787.com?section=top&theme=light" width="100%" height="20" align="left">
 </picture>
 <a href="https://terkel.com">
   <picture>

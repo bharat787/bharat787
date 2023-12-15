@@ -2,7 +2,7 @@ import type { Year } from './worker';
 
 const BP_MEDIUM = 550;
 const BP_LARGE = 700;
-const BODY_COPY = `I'm Bharat. Developer, Tinkerer, Aviation and F1 enthusiast.`;
+const BODY_COPY = `I'm Bharat. Developer, Tinkerer, Aviation and F1 enthusiast!`;
 
 interface Props {
   width?: number;

@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "preinstall": "npm install -g pnpm@6",
     "start": "wrangler dev",
     "deploy": "pnpm stats && wrangler deploy",
     "format": "prettier --write ./{src,scripts}/*",

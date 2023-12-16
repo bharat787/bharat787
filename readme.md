@@ -28,6 +28,6 @@
   <img src="https://readme.terkel.com?section=fallback&theme=light" alt="" width="420" align="left">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://bgbharat787.bgbharat787.workers.dev/?section=main&theme=dark">
-  <img src="https://readme.terkel.com?section=main&theme=light" alt="I'm Bharat. Developer, Tinkerer, Aviation and F1 enthusiast." width="100%" height="290" align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://bharat787.bgbharat787.workers.dev?section=main&theme=dark">
+  <img src="https://bharat787.bgbharat787.workers.dev?section=main&theme=light" alt="I'm Bharat. Developer, Tinkerer, Aviation and F1 enthusiast." width="100%" height="290" align="left">
 </picture>

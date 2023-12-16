@@ -15,6 +15,7 @@
     <img src="https://bharat787.bgbharat787.workers.dev?section=link-twitter&theme=light&i=1" alt="visit my Twitter/X profile" width="100" height="18" align="left">
   </picture>
 </a>
+<img src="data:null;," width="100%" height="0" align="left" alt="">
 <a href="https://www.linkedin.com/in/bharat-gupta-a5540a178/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://bharat787.bgbharat787.workers.dev?section=link-linkedin&theme=dark">
